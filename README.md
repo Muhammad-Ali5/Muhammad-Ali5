@@ -1,22 +1,93 @@
-👋 Hi, I’m Muhammad Ali (@Muhammad-Ali5)
-🚀 About Me
-💡 I’m a Machine Learning Engineer passionate about AI, Deep Learning, and Next-Generation AI models.
-📚 Currently, I’m diving deep into Deep Learning, and NLP to become a Full AI Developer.
-🤖 I have hands-on experience in Supervised & Unsupervised Learning, working on projects like Spam Detection, Fake News Prediction, Credit Card Fraud Detection, and Phishing Attacks Prediction etc.
+## 👋 Hi, I’m Muhammad Ali (@Muhammad-Ali5)
 
-🎯 Interests
-🔍 Interested in AI, LLMs, AGI, Generative AI and cutting-edge AI research.
-🤝 Looking to collaborate on AI, Deep Learning, and NLP projects.
+### 🚀 About Me  
+💡 I’m a **Machine Learning and Deep Learning Engineer** who loves building smart AI systems.  
+🎓 I’m studying **Computer Science at UET Mardan**.  
+🤖 My goal is to become a **Full AI Developer** — from **Machine Learning to Deep Learning, NLP, and Next-Generation AI**.  
 
-🛠️ Currently Learning
-🌱 Deep Learningand Advanced AI Architectures.
-📊 Data Science & Model Optimization.
+---
 
-🔗 Connect With Me
-📩 Email: [maliuetm507@gmail.com]
-💼 LinkedIn: Muhammad Ali
-💻 GitHub: Muhammad-Ali5
+### 🧠 What I Do  
+- Build **AI models** for real-world problems  
+- Create **LangChain & LangGraph-based AI apps**  
+- Develop **chatbots, assistants, and agentic AI systems**  
+- Work on **Deep Learning, NLP, and Generative AI**  
+- Use **Docker** for packaging and deploying AI projects  
 
-⚡ Fun Fact
-🎯 AI will shape the future, and I’m here to be a part of it! 🚀
+---
 
+### 🧰 Skills & Tools  
+
+**Languages:** Python, C++, SQL  
+
+**Libraries & Frameworks:**  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Scikit-learn, TensorFlow, Keras, OpenCV  
+- LangChain, LangGraph, HuggingFace, Streamlit, FastAPI  
+- Docker, FAISS, Gemini Pro, Groq API  
+
+**Core Concepts:**  
+- Supervised & Unsupervised Learning  
+- CNNs, RNNs, LSTMs, Autoencoders  
+- NLP & Text Processing  
+- LLMs, Prompt Engineering, Agentic AI  
+- AI Model Deployment  
+
+---
+
+### 💼 Projects  
+
+#### 🔹 Machine Learning  
+- 📧 Email Spam Detection  
+- 📰 Fake News Prediction  
+- 💳 Credit Card Fraud Detection  
+- 🐟 Phishing Attack Prediction  
+- 🏠 House Price Prediction  
+- 💉 Medical Insurance Cost Prediction  
+- 📊 Student Score Prediction  
+- 🌿 CO₂ Emission Prediction  
+- 🍷 Wine Quality Prediction  
+
+#### 🔹 Deep Learning  
+- 🧠 Brain Tumor Boundary Finder (Autoencoders)  
+- 🌙 Dream Journal Summarizer (LSTM + Attention)  
+- 🖼️ Smart Story Generator from Images (CNN → LSTM)  
+- 🗣️ Next Word Prediction (LSTM - Sherlock Holmes Dataset)  
+- 🤖 LSTM Text Chatbot  
+
+#### 🔹 LangChain, LangGraph & Agentic AI  
+- 💬 **Streamlit + Gemini + LangChain Chat App**  
+  - Chat Memory  
+  - File Upload + PDF History  
+  - FAISS Vector Store + HuggingFace Embeddings  
+  - Gemini Pro + Groq API Integration  
+- ⚙️ **LangGraph AI Workflow System**  
+  - Agentic AI Behavior  
+  - Document Retrieval & Reasoning  
+  - Modular Graph Design  
+
+---
+
+### 🎯 Interests  
+🔍 AI, Deep Learning, NLP, LLMs, LangChain, LangGraph, Agentic AI, Generative AI, AGI, and AI Research.  
+🤝 I love to collaborate on **AI, NLP, and Deep Learning projects**.  
+
+---
+
+### 🛠️ Currently Learning  
+🌱 Advanced Deep Learning Architectures (Transformers, Attention, Seq2Seq)  
+🧠 LangChain + LangGraph for AI Agents  
+🐳 Docker for AI Deployment  
+💬 Prompt Engineering & LLM Integration  
+
+---
+
+### 🔗 Connect With Me  
+📩 **Email:** [maliuetm507@gmail.com](mailto:maliuetm507@gmail.com)  
+💼 **LinkedIn:** [Muhammad Ali](https://www.linkedin.com/in/muhammad-ali-25a188290/)  
+💻 **GitHub:** [Muhammad-Ali5](https://github.com/Muhammad-Ali5)  
+
+---
+
+### ⚡ Fun Fact  
+🚀 *AI will shape the future — and I’m building that future!* 💡  
