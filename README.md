@@ -75,11 +75,8 @@
 ---
 
 ### 🛠️ Currently Learning  
-🌱 Advanced Deep Learning Architectures (Transformers, Attention, Seq2Seq)  
-🧠 LangChain + LangGraph for AI Agents  
-🐳 Docker for AI Deployment  
-💬 Prompt Engineering & LLM Integration  
-
+🌱 Advanced Deep Learning Architectures (Transformers, Attention, Seq2Seq)   
+🐳 Docker for AI Deployment   
 ---
 
 ### 🔗 Connect With Me  
