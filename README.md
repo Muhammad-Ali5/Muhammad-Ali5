@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Muhammad Ali (@Muhammad-Ali5)
 
 ### 🚀 About Me  
-💡 I’m a **Ai and ML Engineer** who loves building smart AI systems.  
+💡 I’m an **Ai and ML Engineer** who loves building smart AI systems.  
 🎓 I’m studying **Computer Science (Specialization in Ai) at UET Mardan**.  
 🤖 My goal is to become a **Full AI Developer** — from **Machine Learning to Deep Learning, NLP, and Next-Generation AI, and also Agentic AI**.  
 
