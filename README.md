@@ -14,23 +14,6 @@
 
 Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer**. I enjoy **learning new technologies, building projects, and solving real-world problems**. Currently, I’m focused on **AI development, Fastapi, and my next step is computer vision**, and I love exploring **advanced AI tools, frameworks, and research**.  
 
----
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<a href="mailto:muhammad.ali@example.com"> 
-  <img width="32px" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a> 
-<a href="https://wa.me/923109661075"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg" alt="WhatsApp"/>
-</a> 
-<a href="https://www.linkedin.com/in/muhammad-ali-25a188290/"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"/>
-</a> 
-<a href="https://github.com/Muhammad-Ali5"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
-</a>
 
 
 ---
@@ -112,6 +95,22 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 
 ---
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+<a href="mailto:muhammad.ali@example.com"> 
+  <img width="32px" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a> 
+<a href="https://wa.me/923109661075"> 
+  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg" alt="WhatsApp"/>
+</a> 
+<a href="https://www.linkedin.com/in/muhammad-ali-25a188290/"> 
+  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"/>
+</a> 
+<a href="https://github.com/Muhammad-Ali5"> 
+  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
+</a>
+
+---
 ## 🔗 Quick Links
 <p>
   <a href="mailto:maliuetm507@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
