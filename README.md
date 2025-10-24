@@ -109,8 +109,6 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
   ![Muhammad-Ali5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&theme=tokyonight&layout=compact)
 </p>
 
----
-
 
 ---
 
