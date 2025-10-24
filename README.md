@@ -17,7 +17,6 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 
 
 ---
----
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
@@ -41,7 +40,6 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 
 ---
 
----
 
 
 ## 🎯 Expertise
@@ -87,7 +85,6 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 </p>
 
 ---
----
 
 ## By the way, here are some of my stats 🚀
 
@@ -112,7 +109,6 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 
 ---
 
----
 
 ## ⚡ Fun Fact
 <p>
