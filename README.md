@@ -56,16 +56,6 @@ Currently, I’m focused on **AI development, FastAPI, and my next step is Compu
 
 ---
 
-## 🛠️ Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Transformers-Seq2Seq-yellow?style=for-the-badge" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/Docker-AI%20Deployment-blue?style=for-the-badge&logo=docker" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-Agents-red?style=for-the-badge" alt="RL & Agents"/>
-  <img src="https://img.shields.io/badge/AGI-Research-green?style=for-the-badge" alt="AGI Research"/>
-</p>
-
----
-
 ## 💻 Tech Stack & Skills
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
