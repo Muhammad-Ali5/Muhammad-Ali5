@@ -20,7 +20,7 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href="mailto:muhammad.ali@example.com"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg" alt="Gmail"/>
+  <img width="32px" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a> 
 <a href="https://wa.me/923109661075"> 
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg" alt="WhatsApp"/>
@@ -31,6 +31,7 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 <a href="https://github.com/Muhammad-Ali5"> 
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
 </a>
+
 
 
 ---
