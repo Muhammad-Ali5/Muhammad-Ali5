@@ -8,10 +8,12 @@
 
 
 
-### 🚀 About Me  
-💡 I’m an **Ai and ML Engineer** who loves building smart AI systems.  
-🎓 I’m studying **Computer Science (Specialization in Ai) at UET Mardan**.  
-🤖 My goal is to become a **Full AI Developer** — from **Machine Learning to Deep Learning, NLP, and Next-Generation AI, and also Agentic AI**.  
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+
+Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML enthusiast**. I love **learning new technologies, building projects, and solving real-world problems**. Currently, I’m focused on **Machine Learning, Deep Learning, and AI development**, and I enjoy exploring **new tools, frameworks, and research** in the tech world.  
+  
 
 ---
 
