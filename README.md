@@ -110,6 +110,31 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
   ![Muhammad-Ali5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&theme=tokyonight&layout=compact)
 </p>
 
+---
+---
+
+## By the way, here are some of my statistics 🚀
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Code-Stats"/>&nbsp;
+  <i><b>Code Chronicles</b></i>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Code-Stats"/>
+</p>
+
+<p align="center">
+  ![Muhammad-Ali5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ali5&show_icons=true&theme=tokyonight)
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali5&theme=tokyonight" alt="My Streak"/>
+</p>
+
+<p align="center">
+  ![Muhammad-Ali5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&theme=tokyonight&layout=compact)
+</p>
+
+---
+
 
 ---
 
