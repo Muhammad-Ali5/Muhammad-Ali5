@@ -16,23 +16,22 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 
 ---
 
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
+<a href="mailto:muhammad.ali@example.com"> 
+  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg" alt="Gmail"/>
+</a> 
+<a href="https://wa.me/923109661075"> 
+  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg" alt="WhatsApp"/>
+</a> 
 <a href="https://www.linkedin.com/in/muhammad-ali-25a188290/"> 
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"/>
-</a> 
-<a href="https://twitter.com/your_twitter_handle"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter"/>
-</a> 
-<a href="https://medium.com/@your_medium_profile"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium"/>
-</a> 
-<a href="http://your_portfolio_link"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" alt="Portfolio"/>
 </a> 
 <a href="https://github.com/Muhammad-Ali5"> 
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
 </a>
+
 
 ---
 
