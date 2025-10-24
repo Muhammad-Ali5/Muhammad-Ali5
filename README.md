@@ -42,8 +42,10 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML enthusias
   <img src="https://img.shields.io/badge/LLMs-LangChain-lightgrey?style=for-the-badge" alt="LLMs"/>
   <img src="https://img.shields.io/badge/Generative%20AI-Agentic%20AI-purple?style=for-the-badge" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/AGI-Research-green?style=for-the-badge" alt="AGI"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="FastAPI"/>
 </p>
-<p>🤝 I enjoy collaborating on <b>AI, NLP, and Deep Learning projects</b>.</p>
+<p>🤝 I enjoy collaborating on <b>AI, ML, NLP, Deep Learning, and full-stack AI projects</b>.</p>
 
 ---
 
@@ -52,6 +54,7 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML enthusias
   <img src="https://img.shields.io/badge/Transformers-Seq2Seq-yellow?style=for-the-badge" alt="Transformers"/>
   <img src="https://img.shields.io/badge/Docker-AI%20Deployment-blue?style=for-the-badge&logo=docker" alt="Docker"/>
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-Agents-red?style=for-the-badge" alt="RL & Agents"/>
+  <img src="https://img.shields.io/badge/AGI-Research-green?style=for-the-badge" alt="AGI Research"/>
 </p>
 
 ---
@@ -70,6 +73,8 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML enthusias
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="FastAPI"/>
 </p>
 
 ---
@@ -87,4 +92,3 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML enthusias
 <p>
   🚀 <b>AI will shape the future — and I’m actively building that future!</b> 💡
 </p>
-
