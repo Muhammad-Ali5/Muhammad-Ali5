@@ -18,7 +18,6 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 
 
 
-
 ---
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -35,6 +34,8 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 <a href="https://github.com/Muhammad-Ali5"> 
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
 </a>
+
+
 ----
 
 <p align="center">
