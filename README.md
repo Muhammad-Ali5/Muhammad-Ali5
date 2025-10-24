@@ -75,6 +75,9 @@
   - Modular Graph Design  
 
 ---
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 ### 🎯 Interests  
 🔍 AI, Deep Learning, NLP, LLMs, LangChain, LangGraph, Agentic AI, Generative AI, AGI, and AI Research.  
