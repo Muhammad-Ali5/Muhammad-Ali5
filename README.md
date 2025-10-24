@@ -12,7 +12,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML enthusiast**. I enjoy **learning new technologies, building projects, and solving real-world problems**. Currently, I’m focused on **Machine Learning, Deep Learning, NLP, and AI development**, and I love exploring **advanced AI tools, frameworks, and research**.  
+Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer**. I enjoy **learning new technologies, building projects, and solving real-world problems**. Currently, I’m focused on **AI development, Fastapi, and my next step is computer vision**, and I love exploring **advanced AI tools, frameworks, and research**.  
 
 ---
 
