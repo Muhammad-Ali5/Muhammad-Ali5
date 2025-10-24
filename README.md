@@ -11,7 +11,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-👋 Hi, I’m Muhammad Ali, proud son of Muhammad Javed.  
+👋 Proud son of Muhammad Javed.  
 
 🚀 AI & ML Engineer, LangChain, RAG & LLM Developer, Chatbot Developer, LangGraph & Agentic AI Enthusiast.  
 
