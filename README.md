@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/CNN-Convolutional%20Networks-red?style=for-the-badge" alt="CNN"/>
   <img src="https://img.shields.io/badge/RNN-Recurrent%20Networks-yellow?style=for-the-badge" alt="RNN"/>
   <img src="https://img.shields.io/badge/ANN-Artificial%20Neural%20Networks-green?style=for-the-badge" alt="ANN"/>
-  <img src="https://img.shields.io/badge/LSTM-Long%20Short-Term%20Memory-purple?style=for-the-badge" alt="LSTM"/>
-  <img src="https://img.shields.io/badge/GRU-Gated%20Recurrent%20Unit-pink?style=for-the-badge" alt="GRU"/>
+  <img src="https://img.shields.io/badge/LSTM-LSTM-purple?style=for-the-badge" alt="LSTM"/>
+  <img src="https://img.shields.io/badge/GRU-GRU-pink?style=for-the-badge" alt="GRU"/>
   <img src="https://img.shields.io/badge/NLP-PyTorch-red?style=for-the-badge&logo=pytorch" alt="NLP"/>
   <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-lightgrey?style=for-the-badge" alt="LLMs"/>
   <img src="https://img.shields.io/badge/LangChain-Framework-blueviolet?style=for-the-badge" alt="LangChain"/>
@@ -67,6 +67,7 @@
 </p>
 
 <p>🤝 I enjoy working on AI, ML, Deep Learning, NLP, LLMs, RAG, Agentic AI, Chatbots, LangChain/LangGraph projects, and full-stack AI applications.</p>
+
 
 ---
 
