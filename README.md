@@ -32,34 +32,59 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML enthusias
 
 ---
 
-### 🎯 Interests
-- 🔍 AI, Machine Learning, Deep Learning, NLP, LLMs, LangChain, LangGraph, Agentic AI, Generative AI, AGI, and AI Research.  
-- 🤝 I enjoy collaborating on **AI, NLP, and Deep Learning projects**.  
+---
+
+## 🎯 Interests
+<p>
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge&logo=python" alt="AI & ML"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/NLP-PyTorch-red?style=for-the-badge&logo=pytorch" alt="NLP"/>
+  <img src="https://img.shields.io/badge/LLMs-LangChain-lightgrey?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Agentic%20AI-purple?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/AGI-Research-green?style=for-the-badge" alt="AGI"/>
+</p>
+<p>🤝 I enjoy collaborating on <b>AI, NLP, and Deep Learning projects</b>.</p>
 
 ---
 
-### 🛠️ Currently Learning
-- 🌱 Advanced Deep Learning Architectures (Transformers, Attention, Seq2Seq)  
-- 🐳 Docker for AI Project Deployment  
-- 🧠 Reinforcement Learning & AI Agents  
+## 🛠️ Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Transformers-Seq2Seq-yellow?style=for-the-badge" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Docker-AI%20Deployment-blue?style=for-the-badge&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-Agents-red?style=for-the-badge" alt="RL & Agents"/>
+</p>
 
 ---
 
-### 💻 Tech Stack & Skills
-- **Languages:** Python, C++, SQL  
-- **Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn  
-- **Tools & Platforms:** Git, GitHub, VS Code, Colab, Jupyter Notebook  
-- **Other:** NLP, LLMs, Data Science, AI Research  
+## 💻 Tech Stack & Skills
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
 ---
 
-### 🔗 Quick Links
-- 📩 **Email:** [maliuetm507@gmail.com](mailto:maliuetm507@gmail.com)  
-- 💼 **LinkedIn:** [Muhammad Ali](https://www.linkedin.com/in/muhammad-ali-25a188290/)  
-- 💻 **GitHub:** [Muhammad-Ali5](https://github.com/Muhammad-Ali5)  
+## 🔗 Quick Links
+<p>
+  <a href="mailto:maliuetm507@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-ali-25a188290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Muhammad-Ali5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-🚀 *AI will shape the future — and I’m actively building that future!* 💡  
+## ⚡ Fun Fact
+<p>
+  🚀 <b>AI will shape the future — and I’m actively building that future!</b> 💡
+</p>
 
