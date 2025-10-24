@@ -12,39 +12,34 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer**. I enjoy **learning new technologies, building projects, and solving real-world problems**. Currently, I’m focused on **AI development, Fastapi, and my next step is computer vision**, and I love exploring **advanced AI tools, frameworks, and research**.  
-
-
-
-
+Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer**.  
+I enjoy **learning new technologies, building projects, and solving real-world problems**.  
+Currently, I’m focused on **AI development, FastAPI, and my next step is Computer Vision**, and I love exploring **advanced AI tools, frameworks, and research**.  
 
 ---
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href="mailto:muhammad.ali@example.com"> 
+<a href="mailto:maliuetm507@gmail.com" title="Email me"> 
   <img width="32px" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a> 
-<a href="https://wa.me/923109661075"> 
+<a href="https://wa.me/923109661075" title="WhatsApp"> 
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg" alt="WhatsApp"/>
 </a> 
-<a href="https://www.linkedin.com/in/muhammad-ali-25a188290/"> 
+<a href="https://www.linkedin.com/in/muhammad-ali-25a188290/" title="LinkedIn"> 
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"/>
 </a> 
-<a href="https://github.com/Muhammad-Ali5"> 
+<a href="https://github.com/Muhammad-Ali5" title="GitHub"> 
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
 </a>
 
-
-----
+---
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake Game"/>
 </p>
 
 ---
-
-
 
 ## 🎯 Expertise
 <p>
@@ -84,8 +79,6 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="FastAPI"/>
 </p>
 
 ---
@@ -111,7 +104,6 @@ Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer*
 </p>
 
 ---
-
 
 ## ⚡ Fun Fact
 <p>
