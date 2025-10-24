@@ -15,64 +15,16 @@
 
 ---
 
-### 🧠 What I Do  
-- Build **AI models** for real-world problems  
-- Create **LangChain & LangGraph-based AI apps**  
-- Develop **chatbots, assistants, and agentic AI systems**  
-- Work on **Deep Learning, NLP, and Generative AI**  
-- Use **Docker** for packaging and deploying AI projects  
-
----
-
-### 🧰 Skills & Tools  
-
-**Languages:** Python, C++, SQL  
-
-**Libraries & Frameworks:**  
-- NumPy, Pandas, Matplotlib, Seaborn  
-- Scikit-learn, TensorFlow, Keras, OpenCV  
-- LangChain, LangGraph, HuggingFace, Streamlit, FastAPI  
-- Docker, FAISS, Gemini Pro, Groq API  
-
-**Core Concepts:**  
-- Supervised & Unsupervised Learning  
-- CNNs, RNNs, LSTMs, Autoencoders  
-- NLP & Text Processing  
-- LLMs, Prompt Engineering, Agentic AI  
-- AI Model Deployment  
-
----
-
-### 💼 Projects  
-
-#### 🔹 Machine Learning  
-- 📧 Email Spam Detection  
-- 📰 Fake News Prediction  
-- 💳 Credit Card Fraud Detection  
-- 🐟 Phishing Attack Prediction  
-- 🏠 House Price Prediction  
-- 💉 Medical Insurance Cost Prediction  
-- 📊 Student Score Prediction  
-- 🌿 CO₂ Emission Prediction  
-- 🍷 Wine Quality Prediction  
-
-#### 🔹 Deep Learning  
-- 🧠 Brain Tumor Boundary Finder (Autoencoders)  
-- 🌙 Dream Journal Summarizer (LSTM + Attention)  
-- 🖼️ Smart Story Generator from Images (CNN → LSTM)  
-- 🗣️ Next Word Prediction (LSTM - Sherlock Holmes Dataset)  
-- 🤖 LSTM Text Chatbot  
-
-#### 🔹 LangChain, LangGraph & Agentic AI  
-- 💬 **Streamlit + Gemini + LangChain Chat App**  
-  - Chat Memory  
-  - File Upload + PDF History  
-  - FAISS Vector Store + HuggingFace Embeddings  
-  - Gemini Pro + Groq API Integration  
-- ⚙️ **LangGraph AI Workflow System**  
-  - Agentic AI Behavior  
-  - Document Retrieval & Reasoning  
-  - Modular Graph Design  
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+</p>
 
 ---
 <p align = "center">
