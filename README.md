@@ -1,29 +1,27 @@
-<h1 align="center"><b>Hi, I'm Muhammad Ali</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Muhammad Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;AI+ML+Engineer,;Computer+Science+Student,;LLM+Developer,;Active+Learner+&+Researcher,;Love+to+learn+new+things..<3">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..;AI+ML+Engineer;Computer+Science+Student;LLM+Developer;Active+Learner+&+Researcher;Love+to+learn+new+things" />
 </p>
 
 ---
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 👋 Proud son of Muhammad Javed.  
 
-🚀 AI & ML Engineer, LangChain, RAG & LLM Developer, Chatbot Developer, LangGraph & Agentic AI Enthusiast.  
+🚀 AI & ML Engineer | LangChain, RAG & LLM Developer | Chatbot Developer | LangGraph & Agentic AI Enthusiast  
 
 💻 Experienced in building ANN, CNN, RNN, LSTM, GRU and working with LLMs for text, image, and predictive tasks.  
 🤖 Skilled in LangChain, LangGraph, RAG, Agentic AI, and chatbot development for intelligent systems.  
-🌐 Full-stack development with React.js and FastAPI, integrating AI models into real-world applications.  
-📂 Passionate about creating projects in AI, NLP, and deep learning while contributing to open-source projects.  
-  
+🌐 Full-stack development with React.js & FastAPI, integrating AI models into real-world applications.  
+📂 Passionate about creating projects in AI, NLP, and deep learning while contributing to open-source.
 
 ---
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2>Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"></h2>
 
 <a href="mailto:maliuetm507@gmail.com" title="Email me"> 
   <img width="32px" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -65,9 +63,7 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="FastAPI"/>
 </p>
-
-<p>🤝 I enjoy working on AI, ML, Deep Learning, NLP, LLMs, RAG, Agentic AI, Chatbots, LangChain/LangGraph projects, and full-stack AI applications.</p>
-
+<p>🤝 I enjoy working on AI, ML, Deep Learning, NLP, LLMs, RAG, Agentic AI, Chatbots, LangChain/LangGraph projects, and full-stack AI apps.</p>
 
 ---
 
@@ -93,14 +89,13 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="FastAPI"/>
 </p>
 
-
 ---
 
 ## By the way, here are some of my stats 🚀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Code-Stats"/>&nbsp;
-  <i><b>Code Chronicles</b></i>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Code-Stats"/> 
+  <i>Code Chronicles</i> 
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Code-Stats"/>
 </p>
 
@@ -120,5 +115,5 @@
 
 ## ⚡ Fun Fact
 <p>
-  🚀 <b>AI will shape the future — and I’m actively building that future!</b> 💡
+  🚀 AI will shape the future — and I’m actively building that future! 💡
 </p>
