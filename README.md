@@ -46,18 +46,27 @@
 
 ---
 
-##  Expertise
+## 🎯 Expertise
 <p>
   <img src="https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge&logo=python" alt="AI & ML"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/CNN-Convolutional%20Networks-red?style=for-the-badge" alt="CNN"/>
+  <img src="https://img.shields.io/badge/RNN-Recurrent%20Networks-yellow?style=for-the-badge" alt="RNN"/>
+  <img src="https://img.shields.io/badge/ANN-Artificial%20Neural%20Networks-green?style=for-the-badge" alt="ANN"/>
+  <img src="https://img.shields.io/badge/LSTM-Long%20Short-Term%20Memory-purple?style=for-the-badge" alt="LSTM"/>
+  <img src="https://img.shields.io/badge/GRU-Gated%20Recurrent%20Unit-pink?style=for-the-badge" alt="GRU"/>
   <img src="https://img.shields.io/badge/NLP-PyTorch-red?style=for-the-badge&logo=pytorch" alt="NLP"/>
-  <img src="https://img.shields.io/badge/LLMs-LangChain-lightgrey?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-Agentic%20AI-purple?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/AGI-Research-green?style=for-the-badge" alt="AGI"/>
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-lightgrey?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/LangChain-Framework-blueviolet?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-Graph%20AI-orange?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Chatbot-Development-yellow?style=for-the-badge" alt="Chatbots"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Generative%20AI-purple?style=for-the-badge" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="FastAPI"/>
 </p>
-<p>🤝 I enjoy collaborating on <b>AI, ML, NLP, Deep Learning, and full-stack AI projects</b>.</p>
+
+<p>🤝 I enjoy working on AI, ML, Deep Learning, NLP, LLMs, RAG, Agentic AI, Chatbots, LangChain/LangGraph projects, and full-stack AI applications.</p>
 
 ---
 
