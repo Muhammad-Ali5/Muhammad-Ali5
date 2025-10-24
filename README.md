@@ -12,9 +12,14 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-Hi! I’m **Muhammad Ali**, a **Computer Science student** and **AI/ML Engineer**.  
-I enjoy **learning new technologies, building projects, and solving real-world problems**.  
-Currently, I’m focused on **AI development, FastAPI, and my next step is Computer Vision**, and I love exploring **advanced AI tools, frameworks, and research**.  
+👋 Hi, I’m **Muhammad Ali**, Proud son of the honorable Muhammad Javed.  
+
+🚀 **AI & ML Engineer** | **LangChain, RAG & LLM Developer** | **Chatbot Developer** | **LangGraph & Agentic AI Enthusiast**  
+
+💻 Experienced in building **ANN, CNN, RNN, LSTM, GRU** and working with **LLMs** for **text, image, and predictive tasks**.  
+🤖 Skilled in **LangChain, LangGraph, RAG, Agentic AI, and Chatbot development** for intelligent systems and advanced AI applications.  
+🌐 Full-stack development with **React.js & FastAPI**, integrating AI models into **real-world applications**.  
+📂 Passionate about creating **cutting-edge projects in AI, NLP, and Deep Learning**, while contributing to **open-source projects** and sharing knowledge.  
 
 ---
 
