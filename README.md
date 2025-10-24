@@ -7,19 +7,19 @@
 </p>
 
 ---
-
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-👋 Hi, I’m **Muhammad Ali**, Proud son of the honorable Muhammad Javed.  
+👋 Hi, I’m Muhammad Ali, proud son of Muhammad Javed.  
 
-🚀 **AI & ML Engineer** | **LangChain, RAG & LLM Developer** | **Chatbot Developer** | **LangGraph & Agentic AI Enthusiast**  
+🚀 AI & ML Engineer, LangChain, RAG & LLM Developer, Chatbot Developer, LangGraph & Agentic AI Enthusiast.  
 
-💻 Experienced in building **ANN, CNN, RNN, LSTM, GRU** and working with **LLMs** for **text, image, and predictive tasks**.  
-🤖 Skilled in **LangChain, LangGraph, RAG, Agentic AI, and Chatbot development** for intelligent systems and advanced AI applications.  
-🌐 Full-stack development with **React.js & FastAPI**, integrating AI models into **real-world applications**.  
-📂 Passionate about creating **cutting-edge projects in AI, NLP, and Deep Learning**, while contributing to **open-source projects** and sharing knowledge.  
+💻 Experienced in building ANN, CNN, RNN, LSTM, GRU and working with LLMs for text, image, and predictive tasks.  
+🤖 Skilled in LangChain, LangGraph, RAG, Agentic AI, and chatbot development for intelligent systems.  
+🌐 Full-stack development with React.js and FastAPI, integrating AI models into real-world applications.  
+📂 Passionate about creating projects in AI, NLP, and deep learning while contributing to open-source projects.  
+  
 
 ---
 
