@@ -38,13 +38,19 @@
 
 ---
 
+<h2 align="center">🐍 Watch My Contributions Snake 🐍</h2>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" 
+       alt="GitHub Snake Animation" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
+  <b>Keep contributing — the snake loves eating commits!</b>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
+</p>
+
 
 ---
 
