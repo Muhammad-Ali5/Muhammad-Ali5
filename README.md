@@ -38,18 +38,33 @@
 
 ---
 
-<h2 align="center">🐍 Watch My Contributions Snake 🐍</h2>
+<div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 800px; margin: 0 auto;">
+  <h2 style="color: #2e8b57; font-family: 'Arial', sans-serif; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">🐍 Watch My Contributions Snake Slither! 🐍</h2>
+  
+  <div style="position: relative; overflow: hidden; border: 2px solid #2e8b57; border-radius: 10px; background: linear-gradient(135deg, #e0f7fa, #b9fbc0); padding: 10px;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" 
+         alt="GitHub Snake Animation" 
+         style="width: 100%; height: auto; filter: drop-shadow(2px 4px 6px black);" />
+  </div>
+  
+  <p style="font-size: 18px; color: #333; font-family: 'Comic Sans MS', cursive; margin-top: 20px; display: flex; align-items: center; justify-content: center; animation: pulse 2s infinite;">
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60" style="margin-right: 10px;" />
+    <b>Keep contributing — the snake is hungry for more commits! 🚀</b>
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60" style="margin-left: 10px;" />
+  </p>
+  
+  <div style="margin-top: 15px; font-size: 14px; color: #666;">
+    <em>Powered by passion and pixels! 🌟</em>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" 
-       alt="GitHub Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
-  <b>Keep contributing — the snake loves eating commits!</b>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
-</p>
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+</style>
 
 
 ---
