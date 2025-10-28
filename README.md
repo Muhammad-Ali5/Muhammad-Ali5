@@ -38,34 +38,235 @@
 
 ---
 
-<div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 800px; margin: 0 auto;">
-  <h2 style="color: #2e8b57; font-family: 'Arial', sans-serif; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">🐍 Watch My Contributions Snake Slither! 🐍</h2>
+<div align="center">
   
-  <div style="position: relative; overflow: hidden; border: 2px solid #2e8b57; border-radius: 10px; background: linear-gradient(135deg, #e0f7fa, #b9fbc0); padding: 10px;">
+  <!-- Animated Header -->
+  <h2>
+    <span class="snake-emoji">🐍</span>
+    Watch My Contributions Slither By 
+    <span class="snake-emoji">🐍</span>
+  </h2>
+
+  <!-- Snake Container with Glow Effect -->
+  <div class="snake-container">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" 
-         alt="GitHub Snake Animation" 
-         style="width: 100%; height: auto; filter: drop-shadow(2px 4px 6px black);" />
+         alt="GitHub Snake Animation" class="snake-animation" />
+    <div class="snake-glow"></div>
   </div>
-  
-  <p style="font-size: 18px; color: #333; font-family: 'Comic Sans MS', cursive; margin-top: 20px; display: flex; align-items: center; justify-content: center; animation: pulse 2s infinite;">
-    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60" style="margin-right: 10px;" />
-    <b>Keep contributing — the snake is hungry for more commits! 🚀</b>
-    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60" style="margin-left: 10px;" />
-  </p>
-  
-  <div style="margin-top: 15px; font-size: 14px; color: #666;">
-    <em>Powered by passion and pixels! 🌟</em>
+
+  <!-- Interactive Message -->
+  <div class="message-container">
+    <div class="snake-icon">🐍</div>
+    <p class="fun-message">
+      <span class="typing-text">Every commit feeds the snake...</span>
+    </p>
+    <div class="snake-icon">🐍</div>
   </div>
+
+  <!-- Stats Counter (Optional - You can customize this) -->
+  <div class="stats">
+    <div class="stat-item">
+      <span class="stat-number">∞</span>
+      <span class="stat-label">Snake Length</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">100%</span>
+      <span class="stat-label">Commit Power</span>
+    </div>
+  </div>
+
 </div>
 
 <style>
+  /* Base Styles */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%);
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* Header Animation */
+  h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    background: linear-gradient(45deg, #ff6b6b, #feca57, #48dbfb, #ff9ff3);
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientShift 3s ease infinite;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+  }
+  
+  @keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  .snake-emoji {
+    display: inline-block;
+    animation: wiggle 2s ease-in-out infinite;
+  }
+  
+  @keyframes wiggle {
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(10deg); }
+    75% { transform: rotate(-10deg); }
+  }
+  
+  /* Snake Container */
+  .snake-container {
+    position: relative;
+    display: inline-block;
+    margin: 2rem 0;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+  }
+  
+  .snake-container:hover {
+    transform: scale(1.02);
+  }
+  
+  .snake-animation {
+    display: block;
+    border-radius: 15px;
+    filter: brightness(1.1) contrast(1.1);
+  }
+  
+  .snake-glow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 15px;
+    box-shadow: 
+      inset 0 0 20px rgba(72, 219, 251, 0.3),
+      0 0 30px rgba(72, 219, 251, 0.2);
+    pointer-events: none;
+    animation: pulse 2s ease-in-out infinite alternate;
+  }
+  
   @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
+    from { box-shadow: 
+      inset 0 0 20px rgba(72, 219, 251, 0.3),
+      0 0 30px rgba(72, 219, 251, 0.2); }
+    to { box-shadow: 
+      inset 0 0 30px rgba(72, 219, 251, 0.5),
+      0 0 40px rgba(72, 219, 251, 0.4); }
+  }
+  
+  /* Message Container */
+  .message-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin: 2rem 0;
+    padding: 15px 25px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .snake-icon {
+    font-size: 1.5rem;
+    animation: bounce 1.5s ease infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+  }
+  
+  .fun-message {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 0;
+  }
+  
+  .typing-text {
+    display: inline-block;
+    overflow: hidden;
+    border-right: 2px solid #48dbfb;
+    white-space: nowrap;
+    animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;
+  }
+  
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+  
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: #48dbfb; }
+  }
+  
+  /* Stats Section */
+  .stats {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 2rem;
+  }
+  
+  .stat-item {
+    text-align: center;
+    padding: 15px 25px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    transition: all 0.3s ease;
+  }
+  
+  .stat-item:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateY(-5px);
+  }
+  
+  .stat-number {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    background: linear-gradient(45deg, #ff6b6b, #feca57);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .stat-label {
+    font-size: 0.9rem;
+    opacity: 0.8;
+    margin-top: 5px;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    h2 {
+      font-size: 1.8rem;
+    }
+    
+    .message-container {
+      flex-direction: column;
+      gap: 10px;
+      border-radius: 20px;
+    }
+    
+    .stats {
+      flex-direction: column;
+      gap: 15px;
+      align-items: center;
+    }
+    
+    .stat-item {
+      width: 80%;
+    }
   }
 </style>
-
 
 ---
 
