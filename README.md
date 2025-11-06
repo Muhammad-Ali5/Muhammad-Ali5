@@ -117,12 +117,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali5&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Ali5&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&theme=tokyonight&layout=compact" alt="Top Languages"/>
 </p>
+
 
 
 ---
