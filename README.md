@@ -104,7 +104,7 @@
 
 ---
 
-## By the way, here are some of my stats 🚀
+##  By the way, here are some of my stats
 
 <p align="center">
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Code-Stats"/> 
@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  ![Muhammad-Ali5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ali5&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali5&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -121,8 +121,9 @@
 </p>
 
 <p align="center">
-  ![Muhammad-Ali5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&theme=tokyonight&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&theme=tokyonight&layout=compact" alt="Top Languages"/>
 </p>
+
 
 ---
 
