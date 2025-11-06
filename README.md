@@ -38,17 +38,15 @@
 
 ---
 
-<h2 align="center"> Watch My Contributions Snake </h2>
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" 
-       alt="GitHub Snake Animation" />
+       alt="GitHub Contribution Snake" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
-  <b>Keep contributing — the snake loves eating commits!</b>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
+  <b>Keep contributing — the snake loves your commits!</b>
 </p>
 
 
