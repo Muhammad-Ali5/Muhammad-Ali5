@@ -12,12 +12,12 @@
 
 👋 Proud son of Muhammad Javed.  
 
-🚀 AI & ML Engineer | LangChain, RAG & LLM Developer | Chatbot Developer | LangGraph & Agentic AI Enthusiast  
+AI & ML Engineer | LangChain, RAG & LLM Developer | Chatbot Developer | LangGraph & Agentic AI Enthusiast  
 
-💻 Experienced in building ANN, CNN, RNN, LSTM, GRU and working with LLMs for text, image, and predictive tasks.  
-🤖 Skilled in LangChain, LangGraph, RAG, Agentic AI, and chatbot development for intelligent systems.  
-🌐 Full-stack development with React.js & FastAPI, integrating AI models into real-world applications.  
-📂 Passionate about creating projects in AI, NLP, and deep learning while contributing to open-source.
+Experienced in building ANN, CNN, RNN, LSTM, GRU and working with LLMs for text, image, and predictive tasks.  
+Skilled in LangChain, LangGraph, RAG, Agentic AI, and chatbot development for intelligent systems.  
+Full-stack development with React.js & FastAPI, integrating AI models into real-world applications.  
+Passionate about creating projects in AI, NLP, and deep learning while contributing to open-source.
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 🎯 Expertise
+##  Expertise
 <p>
   <img src="https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge&logo=python" alt="AI & ML"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="Deep Learning"/>
@@ -75,7 +75,7 @@
 
 ---
 
-## 💻 Tech Stack & Skills
+##  Tech Stack & Skills
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -104,7 +104,7 @@
 
 ---
 
-## 🚀 By the way, here are some of my stats
+##  By the way, here are some of my stats
 
 <p align="center">
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Code-Stats"/> 
