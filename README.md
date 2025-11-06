@@ -104,7 +104,7 @@ Passionate about creating projects in AI, NLP, and deep learning while contribut
 
 ---
 
-##  By the way, here are some of my stats
+## 🚀 By the way, here are some of my stats
 
 <p align="center">
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Code-Stats"/> 
@@ -118,9 +118,9 @@ Passionate about creating projects in AI, NLP, and deep learning while contribut
        alt="GitHub Stats" width="400"/>
 </p>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak (WORKING LINK) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Ali5&theme=tokyonight&hide_border=false&short_numbers=true" 
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Muhammad-Ali5&theme=tokyonight&hide_border=false&short_numbers=true" 
        alt="GitHub Streak" width="400"/>
 </p>
 
@@ -129,7 +129,6 @@ Passionate about creating projects in AI, NLP, and deep learning while contribut
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&theme=tokyonight&layout=compact&cache_seconds=86400" 
        alt="Top Languages" width="350"/>
 </p>
-
 
 
 
