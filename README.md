@@ -6,13 +6,13 @@
 
 ---
 
+<table>
+  <tr>
+    <td>
+
 ## <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50">
 </picture> About Me
-
-<p align="right">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250">
-</p>
 
 👋 Proud son of **Muhammad Javed**.  
 
@@ -22,6 +22,13 @@ Experienced in building **ANN, CNN, RNN, LSTM, GRU** and working with **LLMs** f
 Skilled in **LangChain, LangGraph, RAG, Agentic AI**, and **chatbot development** for intelligent systems.  
 Full-stack development with **React.js** & **FastAPI**, integrating AI models into real-world applications.  
 Passionate about creating projects in **AI, NLP, and Deep Learning** while contributing to **open-source**.
+
+</td>
+    <td>
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250">
+    </td>
+  </tr>
+</table>
 
 
 ---
