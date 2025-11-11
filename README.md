@@ -116,7 +116,7 @@ Passionate about creating projects in **AI, NLP, and Deep Learning** while contr
 
 ---
 
-## 🚀 By the way, here are some of my stats
+## 😊😉 By the way, here are some of my stats
 
 <p align="center">
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="Code-Stats"/> 
