@@ -126,21 +126,19 @@ Passionate about creating projects in **AI, NLP, and Deep Learning** while contr
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali5&show_icons=true&theme=tokyonight&cache_seconds=86400" 
-       alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali5&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
 </p>
 
-<!-- GitHub Streak (WORKING LINK) -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Muhammad-Ali5&theme=tokyonight&hide_border=false&short_numbers=true" 
-       alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali5&theme=tokyonight&hide_border=false&short_numbers=true" alt="GitHub Streak" width="400"/>
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&theme=tokyonight&layout=compact&cache_seconds=86400" 
-       alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&theme=tokyonight&layout=compact" alt="Top Languages" width="350"/>
 </p>
+
 
 
 
