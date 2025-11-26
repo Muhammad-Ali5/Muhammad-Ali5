@@ -117,23 +117,26 @@ Passionate about creating projects in **AI, NLP, and Deep Learning** while contr
 ---
 
 😊😉 By the way, here are some of my stats
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="Code-Stats"/> 
   <i>Code Chronicles</i> 
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="Code-Stats"/>
-</p>
+</div>
+<br/>
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali5&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali5&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats"/>
+</div>
+<br/>
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali5&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="400"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Ali5&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</div>
+<br/>
 <!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+</div>
 
 
 ---
