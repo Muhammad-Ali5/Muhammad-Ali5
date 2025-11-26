@@ -128,9 +128,9 @@ Passionate about creating projects in **AI, NLP, and Deep Learning** while contr
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="Code-Stats"/>
 </div>
 <br/>
-<!-- GitHub Stats -->
+<!-- GitHub Stats - Using alternative service -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali5&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ali5&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 <br/>
 <!-- GitHub Streak -->
@@ -138,9 +138,15 @@ Passionate about creating projects in **AI, NLP, and Deep Learning** while contr
   <img src="https://streak-stats.demolab.com?user=Muhammad-Ali5&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 <br/>
-<!-- Top Languages -->
+<!-- Stats and Languages Side by Side -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Ali5&theme=tokyonight" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ali5&theme=tokyonight" alt="Top Languages" height="180"/>
+</div>
+<br/>
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ali5&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 </div>
 
 
