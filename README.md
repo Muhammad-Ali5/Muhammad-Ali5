@@ -86,7 +86,6 @@ Passionate about creating projects in **AI, NLP, and Deep Learning** while contr
 <p>🤝 I enjoy working on AI, ML, Deep Learning, NLP, LLMs, RAG, Agentic AI, Chatbots, LangChain/LangGraph projects, and full-stack AI apps.</p>
 
 ---
-
 ##  Tech Stack & Skills
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -112,7 +111,12 @@ Passionate about creating projects in **AI, NLP, and Deep Learning** while contr
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+  <!-- Added New Badges -->
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white" alt="Google Antigravity"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm"/>
 </p>
+
 
 ---
 
