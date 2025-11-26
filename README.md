@@ -133,9 +133,9 @@ Passionate about creating projects in **AI, NLP, and Deep Learning** while contr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ali5&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 <br/>
-<!-- GitHub Streak -->
+<!-- GitHub Streak - Using alternative URL -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Ali5&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ali5&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 <br/>
 <!-- Stats and Languages Side by Side -->
