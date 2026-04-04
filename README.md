@@ -5,7 +5,6 @@
 </p>
 
 ---
-
 <table>
   <tr>
     <td>
@@ -14,14 +13,26 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50">
 </picture> About Me
 
-👋 Proud son of **Muhammad Javed**.  
+👋 Proud son of **Muhammad Javed**  
 
-**AI & ML Engineer | LangChain, RAG & LLM Developer | Chatbot Developer | LangGraph & Agentic AI Enthusiast**  
+🚀 **AI Engineer | Deep Learning & NLP Enthusiast | LLM & Agentic AI Developer**
 
-Experienced in building **ANN, CNN, RNN, LSTM, GRU** and working with **LLMs** for text, image, and predictive tasks.  
-Skilled in **LangChain, LangGraph, RAG, Agentic AI**, and **chatbot development** for intelligent systems.  
-Full-stack development with **React.js** & **FastAPI**, integrating AI models into real-world applications.  
-Passionate about creating projects in **AI, NLP, and Deep Learning** while contributing to **open-source**.
+I am a Computer Science student passionate about building intelligent systems using **Machine Learning, Deep Learning, and Large Language Models (LLMs)**.  
+
+🔹 Strong foundation in **ML & DL**:  
+   Supervised & Unsupervised Learning, ANN, CNN, RNN, LSTM, GRU  
+
+🔹 Currently focused on **Next-Gen AI**:  
+   **LangChain, LangGraph, RAG, Agentic AI, LLM Applications**  
+
+🔹 Building real-world AI systems:  
+   Chatbots, Document Q&A (RAG), AI Apps with memory, and intelligent pipelines  
+
+🔹 Tech Stack:  
+   **Python, TensorFlow, PyTorch, FastAPI, React.js, Streamlit, FAISS, HuggingFace**
+
+💡 Passionate about **AI innovation, NLP, and solving real-world problems**  
+🌱 Continuously learning and building towards becoming a **full AI Engineer**
 
 </td>
     <td>
@@ -29,7 +40,6 @@ Passionate about creating projects in **AI, NLP, and Deep Learning** while contr
     </td>
   </tr>
 </table>
-
 
 ---
 
