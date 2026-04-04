@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..;AI+ML+Engineer;Computer+Science+Student;LLM+Developer;Active+Learner+&+Researcher;Love+to+learn+new+things" />
 </p>
 
----
 <table>
   <tr>
     <td>
@@ -15,24 +14,24 @@
 
 👋 Proud son of **Muhammad Javed**  
 
-🚀 **AI Engineer | Deep Learning & NLP Enthusiast | LLM & Agentic AI Developer**
+🚀 **AI Engineer | LLM & Agentic AI Developer | Deep Learning & NLP Enthusiast**
 
 I am a Computer Science student passionate about building intelligent systems using **Machine Learning, Deep Learning, and Large Language Models (LLMs)**.  
 
 🔹 Strong foundation in **ML & DL**:  
    Supervised & Unsupervised Learning, ANN, CNN, RNN, LSTM, GRU  
 
-🔹 Currently focused on **Next-Gen AI**:  
-   **LangChain, LangGraph, RAG, Agentic AI, LLM Applications**  
+🔹 Core expertise in **LLM & Agentic AI Systems**:  
+   **LangChain, LangGraph, RAG, Agentic AI, Chatbot Development, LLM Applications**  
 
-🔹 Building real-world AI systems:  
-   Chatbots, Document Q&A (RAG), AI Apps with memory, and intelligent pipelines  
+🔹 Currently expanding into:  
+   **MLOps, scalable AI systems, and production-level deployments**  
 
 🔹 Tech Stack:  
    **Python, TensorFlow, PyTorch, FastAPI, React.js, Streamlit, FAISS, HuggingFace**
 
 💡 Passionate about **AI innovation, NLP, and solving real-world problems**  
-🌱 Continuously learning and building towards becoming a **full AI Engineer**
+🌱 Continuously building towards becoming a **full-stack AI Engineer**
 
 </td>
     <td>
