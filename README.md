@@ -25,9 +25,9 @@
 
 I'm **Muhammad Ali**, a Computer Science student specializing in Artificial Intelligence at the **University of Engineering and Technology (UET), Mardan, Pakistan**.
 
-I'm currently working as a **Full-Stack AI Engineer at AlgoHub**, where I work on building intelligent applications, LLM-powered systems, AI agents, and backend solutions.
+I'm currently working as a **Full-Stack AI Engineer at AlgoHub**, where I build intelligent applications, LLM-powered systems, AI agents, RAG pipelines, and backend solutions.
 
-My primary goal is to build practical AI systems that solve real-world problems, combining AI engineering with full-stack development.
+My goal is to build practical AI systems that solve real-world problems by combining Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
 ### 🚀 What I Do
 
@@ -48,6 +48,7 @@ My primary goal is to build practical AI systems that solve real-world problems,
 - Exploring MCP and AI agent integrations.
 - Improving MLOps and AI deployment skills.
 - Building scalable Full-Stack AI applications.
+- Exploring Explainable AI and practical Machine Learning solutions.
 
 ---
 
@@ -86,11 +87,9 @@ Working on AI-powered applications and intelligent software solutions.
 
 An offline maternal and newborn risk detection and emergency referral platform.
 
-**Event:** Pakistan's Largest AI Hackathon by Alibaba Cloud and Cognix.
-
-**Venue:** FAST-NUCES, Islamabad, Pakistan.
-
-**Team:** Algo Titans
+- **Event:** Pakistan's Largest AI Hackathon by Alibaba Cloud and Cognix.
+- **Venue:** FAST-NUCES, Islamabad, Pakistan.
+- **Team:** Algo Titans.
 
 **Team Members:**
 - Muhammad Ali
