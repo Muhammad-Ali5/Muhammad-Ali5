@@ -1,167 +1,343 @@
-<h1 align="center">Hi, I'm Muhammad Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center">
+  Hi, I'm Muhammad Ali 👋
+</h1>
+
+<h3 align="center">
+  AI Engineer | Full-Stack AI Developer | Agentic AI & LLM Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..;AI+ML+Engineer;Computer+Science+Student;LLM+Developer;Active+Learner+&+Researcher;Love+to+learn+new+things" />
-</p>
-
-<table>
-  <tr>
-    <td>
-
-## <picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50">
-</picture> About Me
-
-👋 Proud son of **Muhammad Javed**  
-
-🚀 **AI Engineer | LLM & Agentic AI Developer | Deep Learning & NLP Enthusiast**
-
-I am a Computer Science student passionate about building intelligent systems using **Machine Learning, Deep Learning, and Large Language Models (LLMs)**.  
-
-🔹 Strong foundation in **ML & DL**:  
-   Supervised & Unsupervised Learning, ANN, CNN, RNN, LSTM, GRU  
-
-🔹 Core expertise in **LLM & Agentic AI Systems**:  
-   **LangChain, LangGraph, RAG, Agentic AI, Chatbot Development, LLM Applications**  
-
-🔹 Currently expanding into:  
-   **MLOps, scalable AI systems, and production-level deployments**  
-
-🔹 Tech Stack:  
-   **Python, TensorFlow, PyTorch, FastAPI, React.js, Streamlit, FAISS, HuggingFace**
-
-💡 Passionate about **AI innovation, NLP, and solving real-world problems**  
-🌱 Continuously building towards becoming a **full-stack AI Engineer**
-
-</td>
-    <td>
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250">
-    </td>
-  </tr>
-</table>
-
----
-
-<h2>Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"></h2>
-
-<a href="mailto:maliuetm507@gmail.com" title="Email me"> 
-  <img width="32px" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a> 
-<a href="https://wa.me/923109661075" title="WhatsApp"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg" alt="WhatsApp"/>
-</a> 
-<a href="https://www.linkedin.com/in/muhammad-ali-25a188290/" title="LinkedIn"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"/>
-</a> 
-<a href="https://github.com/Muhammad-Ali5" title="GitHub"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
-</a>
-
----
-
-<h2 align="center">🐍 My GitHub Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" 
-       alt="GitHub Contribution Snake" width="90%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Assalamu+Alaikum+Warahmatullah;Full-Stack+AI+Engineer;Generative+AI+%26+Agentic+AI+Developer;Machine+Learning+%26+Deep+Learning;RAG+%7C+Multi-Agent+Systems+%7C+MCP;Building+AI+Solutions+for+Real-World+Problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Keep contributing — the snake loves your commits!</b>
+  <a href="https://github.com/Muhammad-Ali5">
+    <img src="https://komarev.com/ghpvc/?username=Muhammad-Ali5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-green" />
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm **Muhammad Ali**, a Computer Science student specializing in Artificial Intelligence at the **University of Engineering and Technology (UET), Mardan, Pakistan**.
+
+I'm currently working as a **Full-Stack AI Engineer at AlgoHub**, where I work on building intelligent applications, LLM-powered systems, AI agents, and backend solutions.
+
+My primary goal is to build practical AI systems that solve real-world problems, combining AI engineering with full-stack development.
+
+### 🚀 What I Do
+
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Model Training and Evaluation.
+- **Deep Learning:** ANN, CNN, RNN, LSTM, GRU and Neural Networks.
+- **Generative AI:** LLM Applications, Prompt Engineering and Generative AI.
+- **Agentic AI:** LangGraph, LangChain, CrewAI and Multi-Agent Systems.
+- **RAG Systems:** Retrieval-Augmented Generation, Vector Databases, FAISS and ChromaDB.
+- **MCP:** Model Context Protocol and Tool-Connected AI Agents.
+- **Backend Development:** Python, FastAPI and Flask.
+- **Frontend Development:** React.js, Streamlit and Gradio.
+- **MLOps:** Docker, MLflow, Model Deployment and AI Application Development.
+
+### 🎯 Current Focus
+
+- Building production-oriented Agentic AI applications.
+- Developing advanced RAG and Multi-Agent architectures.
+- Exploring MCP and AI agent integrations.
+- Improving MLOps and AI deployment skills.
+- Building scalable Full-Stack AI applications.
 
 ---
 
-##  Expertise
+## 💼 Professional Experience
+
+### Full-Stack AI Engineer | AlgoHub
+
+**Present**
+
+Working on AI-powered applications and intelligent software solutions.
+
+- Developing LLM-powered applications using Python and FastAPI.
+- Building RAG pipelines and AI-powered retrieval systems.
+- Developing AI agents and multi-agent workflows.
+- Working with LangChain and LangGraph.
+- Integrating external APIs and AI services.
+- Developing frontend and backend components.
+- Working with Docker, Git and application deployment.
+
+### 🌍 Internship Experience
+
+| Organization | Position | Duration |
+|---|---|---|
+| DecodeLabs | Generative AI Intern | Apr 25 – May 25, 2026 |
+| UneeQ | Intern, December Batch | December 2025 |
+| Elevvo | Machine Learning Track Intern | Sep 15 – Oct 15, 2025 |
+| CodeAlpha | Python Programming Intern | Mar 1 – Mar 30, 2025 |
+
+---
+
+## 🏆 Hackathons & Achievements
+
+### AI Hackathon Pakistan 2026
+
+**Project: Maahifazat AI**
+
+An offline maternal and newborn risk detection and emergency referral platform.
+
+**Event:** Pakistan's Largest AI Hackathon by Alibaba Cloud and Cognix.
+
+**Venue:** FAST-NUCES, Islamabad, Pakistan.
+
+**Team:** Algo Titans
+
+**Team Members:**
+- Muhammad Ali
+- Muhammad Yonas Khan
+- Zafar Ullah
+
+**Project Repository:** [Maahifazat AI](https://github.com/Zafar488/MaHifzat-Ai)
+
+The project focuses on identifying maternal and newborn health risks and supporting emergency referrals through an offline-capable AI platform.
+
+---
+
+## 🚀 Featured AI Projects
+
+Here are some of the AI systems and applications I've worked on:
+
+### 1. CrisisLens AI
+
+**AI-Powered Flood & Earthquake Early Warning System**
+
+- Flood and earthquake image classification.
+- Machine Learning-based text classification.
+- Gemini-powered speech interaction.
+- Emergency alerts through Twilio SMS.
+- FastAPI backend and AI integration.
+
+**Technologies:** Python, FastAPI, TensorFlow, Gemini, Twilio.
+
+### 2. SmogNet AI
+
+**Air Quality Monitoring & Pollution Prediction**
+
+- PM2.5 monitoring and prediction.
+- Anomaly detection.
+- Weather API integration.
+- Automated environmental alerts.
+
+**Technologies:** Python, Flask, Scikit-learn, Groq, Twilio.
+
+### 3. ImpactAI
+
+**Multi-Agent Slack AI Assistant**
+
+- LangGraph-powered multi-agent architecture.
+- MCP integration.
+- RAG-based knowledge retrieval.
+- ChromaDB vector storage.
+- Slack AI assistant integration.
+
+**Technologies:** Python, FastAPI, LangGraph, Gemini, MCP, ChromaDB.
+
+### 4. DermScan AI
+
+**AI-Powered Skin Analysis Assistant**
+
+- Image-based skin analysis.
+- Text-based interaction.
+- Voice-enabled interaction.
+- AI-powered recommendations.
+- LangGraph agent workflow.
+
+**Technologies:** Python, FastAPI, Gradio, LangGraph, Groq.
+
+Repository: [Skin Specialist Agent](https://github.com/Muhammad-Ali5/skin-specialist-agent)
+
+### 5. RAG Knowledge Analyst
+
+**Retrieval-Augmented Generation Application**
+
+- Document-based knowledge retrieval.
+- Semantic search.
+- LLM-powered question answering.
+- Context-aware responses.
+
+**Technologies:** Python, LangChain, FAISS, LLMs.
+
+### 6. AI Research Agent
+
+**Intelligent AI Research Assistant**
+
+- AI-powered research workflows.
+- Information retrieval.
+- Agent-based task execution.
+- LLM integration.
+
+### 7. Brain Tumor Detection
+
+**Deep Learning-Based Medical Image Classification**
+
+- MRI image processing.
+- Deep learning classification.
+- Model training and evaluation.
+
+**Technologies:** Python, TensorFlow, CNN.
+
+---
+
+## 🎓 Education
+
+**University of Engineering and Technology (UET), Mardan**
+
+- Degree: BS Computer Science
+- Specialization: Artificial Intelligence
+- Duration: 2023 – 2027
+- Current Semester: 7th Semester
+- CGPA: 3.33
+
+### Academic Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Explainable AI
+- Generative AI
+
+---
+
+## 🧠 Technical Expertise
+
+### Artificial Intelligence & Machine Learning
+
 <p>
-  <img src="https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge&logo=python" alt="AI & ML"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/CNN-Convolutional%20Networks-red?style=for-the-badge" alt="CNN"/>
-  <img src="https://img.shields.io/badge/RNN-Recurrent%20Networks-yellow?style=for-the-badge" alt="RNN"/>
-  <img src="https://img.shields.io/badge/ANN-Artificial%20Neural%20Networks-green?style=for-the-badge" alt="ANN"/>
-  <img src="https://img.shields.io/badge/LSTM-LSTM-purple?style=for-the-badge" alt="LSTM"/>
-  <img src="https://img.shields.io/badge/GRU-GRU-pink?style=for-the-badge" alt="GRU"/>
-  <img src="https://img.shields.io/badge/NLP-PyTorch-red?style=for-the-badge&logo=pytorch" alt="NLP"/>
-  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-lightgrey?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/LangChain-Framework-blueviolet?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-Graph%20AI-orange?style=for-the-badge" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Chatbot-Development-yellow?style=for-the-badge" alt="Chatbots"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-Generative%20AI-purple?style=for-the-badge" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LightGBM-228B22?style=for-the-badge"/>
 </p>
-<p>🤝 I enjoy working on AI, ML, Deep Learning, NLP, LLMs, RAG, Agentic AI, Chatbots, LangChain/LangGraph projects, and full-stack AI apps.</p>
 
----
-## 🚀 Tech Stack & Skills
+### Generative AI & Agentic AI
+
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Twilio-FF0000?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-
-  <!-- NEW BADGES WITH PROPER ICONS -->
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white" alt="Antigravity"/>
-  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
 </p>
 
+### Backend & Frontend Development
 
-
----
-
-😊😉 By the way, here are some of my stats
-<div align="center">
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="Code-Stats"/> 
-  <i>Code Chronicles</i> 
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="Code-Stats"/>
-</div>
-<br/>
-<!-- GitHub Stats - Using alternative service -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ali5&theme=tokyonight" alt="GitHub Stats"/>
-</div>
-<br/>
-<!-- GitHub Streak - Using alternative URL -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ali5&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</div>
-<br/>
-<!-- Stats and Languages Side by Side -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Ali5&theme=tokyonight" alt="Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ali5&theme=tokyonight" alt="Top Languages" height="180"/>
-</div>
-<br/>
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ali5&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
-</div>
-
-
----
-
-## ⚡ Fun Fact
 <p>
-  🚀 AI will shape the future — and I’m actively building that future! 💡
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Data Science & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+</p>
+
+### MLOps & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ali5&theme=tokyonight" alt="GitHub Profile Details"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali5&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali5&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ali5&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+I'm interested in collaborating on AI projects, building intelligent applications, and connecting with people working in Artificial Intelligence and Machine Learning.
+
+<p align="center">
+  <a href="mailto:maliuetm507@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ali-25a188290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Muhammad-Ali5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://muhammad-ali5.github.io/ali-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923109661075">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  💡 Building Intelligent Systems. Creating Real-World Impact.
+</h3>
+
+<p align="center">
+  <b>Keep Learning | Keep Building | Keep Growing 🚀</b>
 </p>
